@@ -38,7 +38,7 @@ Oh, and the name comes from my baby since that is his nickname since it reminds 
 
 After completing the ordered list, I will do the other tasks as I need them and whatever is easiest for me haha.
 
-1. [ ] Define the syntax of the language.
+1. [o] Define the syntax of the language.
 2. [ ] Create the parser with Lark.
 3. [ ] Create a Rust-style code evaluator.
 4. [ ] Create a Pengu to Cpp code translator.
